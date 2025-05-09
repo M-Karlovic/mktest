@@ -1,0 +1,6 @@
+.blok {
+  background-color: red;
+}
+.blok2 {
+  background-color: red-darken(10%);
+}
