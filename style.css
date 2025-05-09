@@ -1,6 +1,6 @@
 .blok {
-  background-color: red;
+  background-color: blue;
 }
 .blok2 {
-  background-color: red-darken(10%);
+  background-color: red-darken(20%);
 }
